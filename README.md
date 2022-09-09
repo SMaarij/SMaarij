@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SMaarij
 - 👀 I’m interested in Python projects
-- 🌱 I’m currently learning Python and web development
+- 🌱 I’m currently learning Python,web development and android development
 - 💞️ I’m looking to collaborate on programming events
 - 📫 How to reach me @syedmaarij61@gmail.com
 
